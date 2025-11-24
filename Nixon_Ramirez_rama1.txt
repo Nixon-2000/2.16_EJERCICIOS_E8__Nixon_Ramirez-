@@ -1,2 +1,3 @@
-Primera linea
 Línea añadida en master
+Nueva línea 1 en rama1.txt desde la rama
+Nueva línea 2 en rama1.txt desde la rama
